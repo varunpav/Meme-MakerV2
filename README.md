@@ -16,7 +16,7 @@ Personally, I use it to take pictures of friends doing something dumb and captio
 ## Technologies Used
 - **Frontend**: React.js
 - **Backend**: Python, Flask
-- **Database**: PostgreSQL 
+- **Database**: SQLite 
 - **Image Processing**: Pillow (Python Imaging Library)
 
 ## Getting Started
@@ -28,3 +28,9 @@ Personally, I use it to take pictures of friends doing something dumb and captio
 ### Installation
 
 WIP; will update when completed
+
+### Status
+
+Currently working on getting tests running and setting up google login.
+
+Succesful Sprint 1 setting up skeleton of project and planning directions.
