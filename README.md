@@ -1,0 +1,1 @@
+Current WIP, ideally would be a rewrite of the original Java code into a python application accessible on web and mobile to allow users to easily create and share Memes. May remove Feed feature and instead focus on the functionality of creating and saving memes.
