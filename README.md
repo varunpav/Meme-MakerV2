@@ -32,3 +32,5 @@ WIP; will update when completed
 Currently working on getting tests running and setting up google login.
 
 Succesful Sprint 1 setting up skeleton of project and planning directions.
+
+Shelved in place of other projects, may return once I have more time...
